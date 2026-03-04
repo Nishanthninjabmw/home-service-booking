@@ -1,0 +1,5 @@
+{
+  "name": "HomeEase - Home Service Booking",
+  "description": "A professional platform to book cleaning, plumbing, electrical, and other home services with ease.",
+  "requestFramePermissions": ["geolocation"]
+}
